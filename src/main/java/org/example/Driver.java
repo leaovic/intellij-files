@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class Driver {
     public static void main(String[] args) {
 
+
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.instagram.com/");
 
